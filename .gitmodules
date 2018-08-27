@@ -7,6 +7,6 @@
 [submodule "libpyronia"]
 	path = libpyronia
 	url = git@github.com:masomel/libpyronia.git
-[submodule "py-import-analysis"]
-	path = py-import-analysis
-	url = git@github.com:masomel/py-import-analysis.git
+[submodule "iot-app-analysis"]
+	path = iot-app-analysis
+	url = git@github.com:masomel/iot-app-analysis.git
