@@ -1,0 +1,12 @@
+[submodule "pyronia-linux"]
+	path = pyronia-linux
+	url = git@github.com:masomel/pyronia-linux.git
+[submodule "pyronia-cpython"]
+	path = pyronia-cpython
+	url = git@github.com:masomel/pyronia-cpython.git
+[submodule "libpyronia"]
+	path = libpyronia
+	url = git@github.com:masomel/libpyronia.git
+[submodule "py-import-analysis"]
+	path = py-import-analysis
+	url = git@github.com:masomel/py-import-analysis.git
